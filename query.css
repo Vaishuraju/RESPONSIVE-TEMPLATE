@@ -42,7 +42,7 @@ a:hover{
 .box-section{
            width: 90%;
            float: left;
-           margin-left: 35px;
+           margin-left: 25px;
           
  
 }
@@ -74,9 +74,7 @@ a:hover{
    
     
 }
-.head{
 
-}
 .head{
     font-size: 50px;
     margin-left: 25px;
@@ -134,11 +132,14 @@ img{
     .box-section3{
         width: 50%;
         float: left;
+        margin-top: 0px;
 
     }
     .box-section4{
         width: 50%;
-        float: left;   
+        float: left;
+        margin-top: 0px;
+   
     }
 }
 
